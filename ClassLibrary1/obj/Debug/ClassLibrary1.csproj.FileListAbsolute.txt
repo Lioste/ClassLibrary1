@@ -1,0 +1,7 @@
+C:\Users\stagiaire\Documents\MEGA\AFPA\Visual Studio\WinForm\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\stagiaire\Documents\MEGA\AFPA\Visual Studio\WinForm\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\stagiaire\Documents\MEGA\AFPA\Visual Studio\WinForm\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.Form1.resources
+C:\Users\stagiaire\Documents\MEGA\AFPA\Visual Studio\WinForm\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.GenerateResource.Cache
+C:\Users\stagiaire\Documents\MEGA\AFPA\Visual Studio\WinForm\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\stagiaire\Documents\MEGA\AFPA\Visual Studio\WinForm\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.exe
+C:\Users\stagiaire\Documents\MEGA\AFPA\Visual Studio\WinForm\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.exe
